@@ -24,5 +24,5 @@ Any pull requests made concerning research errors or supplemental resources must
 
 ## Curators
 
-- @farraw33
+- @OrganicCoder
 - @AlexChambers
