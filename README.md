@@ -20,7 +20,7 @@ The application used to make the mind map is [MindNode](https://mindnode.com/) f
 
 ## How To Contribute
 
-Any pull requests made concerning research errors or supplemental resources must come with a link to a study or some other reputable website (i.e. not [www.TheTruthTheyDontWantYouToKnow.com](http://www.thetruththeydontwantyoutoknow.com)). 
+Any pull requests made concerning research errors or supplemental resources must come with a link to a study or some other reputable website (e.g. not [www.TheTruthTheyDontWantYouToKnow.com](http://www.thetruththeydontwantyoutoknow.com)). 
 
 ## Curators
 
